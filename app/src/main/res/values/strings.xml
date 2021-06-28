@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notifi_Multi</string>
+    <string name="notificacion">Ver Notficacion</string>
+    <string name="audio">Reproducir Audio</string>
+    <string name="video">Reproducir Video</string>
+    <string name="pause">Pausar Video</string>
+    <string name="stop">Terminar Video</string>
+</resources>
